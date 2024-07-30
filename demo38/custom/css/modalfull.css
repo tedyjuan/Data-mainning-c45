@@ -1,0 +1,17 @@
+.modal-full.modal-dialog {
+	width: 100%;
+	max-width: none;
+	height: 100%;
+	margin: 0;
+	padding: 30px 40px 30px 40px;
+}
+
+.modal-full.modal-content {
+	height: 100%;
+	border: 0;
+	padding: 20px 20px 20px 20px;
+}
+
+.modal-full.modal-body {
+	overflow-y: auto;
+}
